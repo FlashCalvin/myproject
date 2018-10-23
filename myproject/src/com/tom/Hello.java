@@ -3,7 +3,7 @@ package com.tom;
 public class Hello {
 	
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		Student stu = new Student("Calvin", 87, 87);
 		stu.println();
 		
@@ -25,6 +25,6 @@ public class Hello {
 		System.out.println(weight);
 		System.out.println(height);
 		System.out.println(name);
-	}
+	}*/
 
 }
